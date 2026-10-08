@@ -1,0 +1,6 @@
+{
+  "name": "Lil Kevo | Official Artist Experience",
+  "description": "Official artist website for Lil Kevo — 20-year-old poet and music artist. Stream latest album 'Can’t Be Tamed', listen to tracks, read lyrics, watch music videos, and explore tour dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
